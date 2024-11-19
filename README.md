@@ -14,11 +14,11 @@
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/fill-in-the-blanks-game.git
+    git clone https://github.com/Deeja-ish/python-project.git
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd fill-in-the-blanks-game
+    cd python project
     ```
 
 ## Usage
@@ -26,7 +26,7 @@
 1. **Run the game**:
     To start the game, run the Python script:
     ```bash
-    python game.py
+    python project_game.py
     ```
 
 2. **Gameplay Instructions**:
