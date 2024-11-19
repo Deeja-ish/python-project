@@ -18,7 +18,7 @@
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd python project
+    cd python-project
     ```
 
 ## Usage
@@ -36,11 +36,6 @@
        - then will give back the story with all adjective filled.
     ```
 
-## Game Logic
-The game uses a simple algorithm to:
-- Select a random sentence from a pool of predefined sentences with blanks.
-- Prompt the user for their guess and check if it matches the correct answer.
-- Track the player's score and provide feedback.
 
 ## How to Contribute
 
@@ -54,8 +49,9 @@ Feel free to fork the repository and submit pull requests! Here's how you can co
 
 
 ## Author
-Your Name  
-[Your GitHub Profile](https://github.com/yourusername)
+khadija Goni
+[Your GitHub Profile]https://github.com/Deeja-ish
+
 
 ---
 
