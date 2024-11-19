@@ -50,7 +50,8 @@ Feel free to fork the repository and submit pull requests! Here's how you can co
 
 ## Author
 khadija Goni
-[Your GitHub Profile]https://github.com/Deeja-ish
+
+https://github.com/Deeja-ish
 
 
 ---
