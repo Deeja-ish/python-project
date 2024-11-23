@@ -6,9 +6,9 @@
 "Fill in the Blanks" is an interactive word game where players are presented with a story with missing words (blanks). The goal is to fill in these blanks correctly by guessing the right word. This game is built using Python and can be played via the command line interface (CLI).
 
 ## Features
-- Multiple difficulty levels (easy, medium, hard)
+- Multiple difficulty levels (easy, medium,)
 - Fun and engaging gameplay
-- A variety of sentences and categories
+- A variety of stories and categories
 
 ## Installation
 
@@ -30,10 +30,10 @@
     ```
 
 2. **Gameplay Instructions**:
-    - The game will display a story with missing words represented by blanks (adjectives).
-    - Players will be prompted to type in their answers for the missing adjective(s).
+    - The game will display a story with missing words represented by blanks.
+    - Players will be prompted to type in their answers for the missing spaces(s).
        - The game continues until all blanks are filled, or the user decides to quit.
-       - then will give back the story with all adjective filled.
+       - then will give back the story with all blanks  filled.
     ```
 
 
@@ -49,7 +49,7 @@ Feel free to fork the repository and submit pull requests! Here's how you can co
 
 
 ## Author
-khadija Goni
+Khadija Goni
 
 https://github.com/Deeja-ish
 
